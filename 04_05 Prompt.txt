@@ -1,0 +1,2 @@
+The original data is stored in the original data folder in this drive. The data was direct from the survey tool. It was not touched before transformation. Now, what I mean by that is, someone didn't go in and tweak the file and then send it to me. It came direct from the survey tool and right into my working file. 
+
