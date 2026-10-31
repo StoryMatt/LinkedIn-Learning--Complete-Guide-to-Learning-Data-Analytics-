@@ -1,0 +1,1 @@
+I am a new SQL User. I am trying to learn the basics. I need to learn how to read a basic SQL statement. Can you give me a table of products and help me learn basic SQL Statements.

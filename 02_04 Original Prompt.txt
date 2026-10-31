@@ -1,0 +1,31 @@
+Original Prompt
+
+I need to explore the syntax for an IF Function in several different applications. 
+This IF function needs to look at the Order field; and if it is less than 500 give a 10% kickback based on the Order field. 
+If they are 500 to 1500 then I need the result to be 12% of the Order field.
+If more than 1500 they get the 15% of the order amount field but needs to be capped at 5000 as the total amount.
+I need to the calculation in syntax for the following programs
+How to build this in Excel.
+How to build this in M code for PowerBI and PowerQuery. 
+How to build this in SQL Statement. 
+How to build this in Python
+
+REWRITE with ChatGPT
+
+Task:
+Create a conditional calculation (IF logic) based on an Order Amount field.
+
+Business Rules:
+
+If Order Amount is less than 500 → return 10% of Order Amount
+If Order Amount is between 500 and 1500 → return 12% of Order Amount
+If Order Amount is greater than 1500 → return 15% of Order Amount
+The final calculated result must be capped at a maximum of 5000
+
+Requirements:
+Provide the syntax or implementation for this logic in the following:
+
+Excel formula
+Power BI / Power Query (M code)
+SQL statement
+Python function (Copilot-ready)
